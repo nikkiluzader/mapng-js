@@ -297,8 +297,8 @@
                 <div class="text-xs text-gray-500 dark:text-gray-400 mt-1">Composition API & reactivity</div>
               </div>
               <div class="bg-gray-50 dark:bg-gray-800 p-3 rounded border border-gray-200 dark:border-gray-700">
-                <div class="font-medium text-gray-900 dark:text-white">TypeScript</div>
-                <div class="text-xs text-gray-500 dark:text-gray-400 mt-1">Strict type safety & interfaces</div>
+                <div class="font-medium text-gray-900 dark:text-white">JavaScript</div>
+                <div class="text-xs text-gray-500 dark:text-gray-400 mt-1">ES6+ Modern JavaScript</div>
               </div>
               <div class="bg-gray-50 dark:bg-gray-800 p-3 rounded border border-gray-200 dark:border-gray-700">
                 <div class="font-medium text-gray-900 dark:text-white">Tailwind CSS</div>
